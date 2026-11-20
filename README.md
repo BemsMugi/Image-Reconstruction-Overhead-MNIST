@@ -26,6 +26,8 @@ The data is split separately for each class:
 
 The split uses `random_state=42` for reproducibility.
 
+Dataset link : https://www.kaggle.com/datasets/datamunge/overheadmnist
+
 ## Models
 
 The project compares two convolutional autoencoders:
